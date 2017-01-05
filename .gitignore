@@ -3,3 +3,10 @@
 ################################################################################
 
 /HBaseManagementStudio/bin/Debug
+/HBaseManagementStudio/obj/Debug
+/HBaseThrift/bin/Debug
+/HBaseThrift/obj/Debug
+/Lib/gen-csharp
+/Lib/thrift-0.9.3.exe
+/Lib/hbase.thrift
+/packages
